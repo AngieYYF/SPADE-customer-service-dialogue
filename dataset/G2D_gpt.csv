@@ -88,7 +88,7 @@ user: Are there any places that fit my criteria but in a different area?
 system: I have found one guesthouse with 0 stars that offers free parking in the north area. It's called [hotel name]. Would you like to book a stay there?
 user: Yes, please book it for 3 people for 5 nights starting on Wednesday.
 system: Booking was successful at [hotel name] for 3 people for 5 nights starting on Wednesday. Your reference number is [ref]. Enjoy your stay!
-user: Thank you for your help. ****"
+user: Thank you for your help. "
 11,11,"user: Hello, I'm looking to book a hotel called Avalon for 8 people for 5 nights starting from Thursday.
 system: I have found the Avalon Hotel for you. It is located in the center area. The hotel has free parking and free internet. It is a 4-star hotel in the moderate price range. Would you like to proceed with booking?
 user: Yes, please book it for me.
@@ -2271,7 +2271,7 @@ system: I have found a suitable guesthouse for you. It's [hotel name] in the nor
 user: Does [hotel name] provide free parking and internet services?
 system: It looks like the booking was successful at [hotel name]. Your reference number is [ref]. 
 user: Thank you for the assistance.
-system: Enjoy your stay at [hotel name]! ****"
+system: Enjoy your stay at [hotel name]! "
 281,281,"user: Hi, I'm looking for a moderate-priced hotel with 3 stars in the westside area that has free internet and parking.
 system: I'm sorry, I couldn't find any hotels meeting all those criteria. Would you like me to look for a guesthouse instead?
 user: Sure, a guesthouse in the westside would be fine. Does it have free internet and parking?
@@ -2676,7 +2676,7 @@ system: I have found [hotel name] in the east for you. It is a 2-star hotel with
 user: Yes, that sounds good. Can you provide me with the address, phone number, and postcode of the hotel?
 system: Certainly! The address is [address], the phone number is [phone number], and the postcode is [postcode]. How many people will be staying and for how many nights?
 user: Two people for three nights, starting on Friday.
-system: Booking was successful at [hotel name]. Your reference number is [ref]. ****"
+system: Booking was successful at [hotel name]. Your reference number is [ref]. "
 336,336,"user: Hi, I'm looking for a hotel in the north with 4 stars, free parking, and free wifi. Can you help me find one within a moderate price range?
 system: Sure, I have a few options available. How many people will be staying and for how many nights?
 user: It will be for two people staying for three nights starting on Friday.
@@ -3379,7 +3379,7 @@ system: The guesthouse is called [hotel name] and it is located at [address]. Wo
 user: Yes, please book it for those dates.
 system: Your booking at [hotel name] is confirmed. Your reference number is [ref]. Enjoy your stay!
 user: Thank you for your help.
-system: You're welcome. Enjoy your stay at [hotel name]! ****"
+system: You're welcome. Enjoy your stay at [hotel name]! "
 426,426,"user: Hello, I'm looking for a guesthouse in the moderate price range that includes free parking.
 system: I have found [hotel name] in the east area. It has free parking but does not include internet. Would you like to consider this option?
 user: Does [hotel name] have free wifi instead of internet?
@@ -3447,7 +3447,7 @@ system: Enjoy your stay! "
 system: I have found Autumn House for you. The address is [address] and the phone number is [phone number]. How many people will be staying and for how many nights?
 user: I would like to book for 6 people for 4 nights starting from Thursday.
 system: Booking was successful at Autumn House. Your reference number is [ref]. Enjoy your stay!
-user: Thank you for your help. ****"
+user: Thank you for your help. "
 434,434,"user: Hi, I'm looking for a guesthouse in the moderate price range with 3 stars. It should have free wifi. 
 system: I have found [hotel name] in the east area that matches your requirements. Would you like to book it?
 user: Yes, please book it for 2 people for 5 nights starting from Tuesday.
@@ -3583,7 +3583,7 @@ user: No, thank you. I really want to stay at El Shaddai. Can you keep searching
 system: I'm sorry, but I am unable to locate El Shaddai in our database. Would you like me to continue searching or consider another hotel?
 user: Please continue searching for El Shaddai.
 system: I apologize for the inconvenience, but I am still unable to find El Shaddai in our system. Would you like me to search for hotels with similar criteria?
-user: No, thank you. I will look for El Shaddai myself.****"
+user: No, thank you. I will look for El Shaddai myself."
 452,452,"user: Hello, I'm looking for a guesthouse in the cheap price range on the westside. Do you have any available?
 system: I have found a guesthouse in the westside that fits your criteria. It has free internet and free parking. The guesthouse is called [hotel name]. 
 user: That sounds great. Can you provide me with the phone number of [hotel name]?
@@ -3705,7 +3705,7 @@ system: Yes, [hotel name] offers free internet.
 user: Perfect. I'd like to book a stay for myself and two friends. We plan to stay for five nights starting next Monday.
 system: Booking was successful at [hotel name]. Your reference number is [ref].
 user: Thank you for your help.
-system: You are welcome. Enjoy your stay at [hotel name]. ****"
+system: You are welcome. Enjoy your stay at [hotel name]. "
 466,466,"user: Hello, I'm looking for a hotel in the centre that has a 4-star rating, free parking, and free wifi.
 system: I found one hotel that fits your criteria. It's called [hotel name]. Would you like to book a stay?
 user: Yes, please. I need to book for 2 people for 3 nights starting on Thursday.

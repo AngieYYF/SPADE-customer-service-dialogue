@@ -1,6 +1,6 @@
 # SPADE: Structured Prompting Augmentation for Dialogue Enhancement in Machine-Generated Text Detection
 
-[**Paper**]() | [**Datasets**](#datasets) | [**Detection**](#detection) | [**Example**](#example)
+[**Paper**]() | [**Datasets**](#datasets) | [**Detection**](#detection) | [**Example**](#example) | [**Frameworks**](#frameworks)
 
 ## Introduction
 **SPADE** contains:
@@ -49,7 +49,7 @@ An example of using the provided datasets and performing synthetic user detectio
 
 ## Framworks
 
-Examples of prompt for different data augmentation frameworks are available [here](frameworks/framework_table.ipynb)
+Examples of prompt for different data augmentation frameworks are available [here](frameworks/framework_table.ipynb).
 
 
 ## License

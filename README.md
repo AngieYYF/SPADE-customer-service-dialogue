@@ -7,8 +7,12 @@
 - A repository of customer service line synthetic user dialogues with goals.
 - A collection of implementations of synthetic user detection methods.
 - An example of detecting synthetic user dialogues within the dataset.
+- A collection of our proposed data augmentation frameworks.
 
 ## Datasets
+
+You can download SPADE on HuggingFace.
+Here is the link: https://huggingface.co/datasets/AngieYYF/SPADE-customer-service-dialogue
 
 SPADE contains a number of datasets, including:
 
@@ -42,6 +46,10 @@ The detection folder contains implementations of detection methods of three clas
 ## Example
 
 An example of using the provided datasets and performing synthetic user detection is available [here](detection/roberta_detection.ipynb).
+
+## Framworks
+
+Examples of prompt for different data augmentation frameworks are available [here](frameworks/framework_table.ipynb)
 
 
 ## License

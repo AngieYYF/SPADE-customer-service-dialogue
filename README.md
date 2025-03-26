@@ -1,6 +1,6 @@
 # SPADE: Structured Prompting Augmentation for Dialogue Enhancement in Machine-Generated Text Detection
 
-[**Paper**]() | [**Datasets**](#datasets) | [**Detection**](#detection) | [**Example**](#example) | [**Frameworks**](#frameworks)
+[**Paper**](https://arxiv.org/abs/2503.15044) | [**Datasets**](#datasets) | [**Detection**](#detection) | [**Example**](#example) | [**Frameworks**](#frameworks)
 
 ## Introduction
 **SPADE** contains:
